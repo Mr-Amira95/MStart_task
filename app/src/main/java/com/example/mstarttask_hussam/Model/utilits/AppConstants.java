@@ -6,7 +6,7 @@ import com.intuit.sdp.BuildConfig;
 
 public class AppConstants {
 
-    public static final String BASE_URL = "http://api.aladhan.com/v1/";
+    public static final String BASE_URL = "https://api.aladhan.com/v1/";
 
     public static final String From_G_To_H_URL = "gToH";
     public static final int From_G_To_H_TAG = 1;
